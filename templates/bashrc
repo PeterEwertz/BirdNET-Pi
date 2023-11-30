@@ -118,3 +118,5 @@ function remove() {
 }
 alias rerc="source ~/.bashrc"
 alias vimrc="vim ~/.bashrc"
+
+export GPG_TTY=$(tty)
